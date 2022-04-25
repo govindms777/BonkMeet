@@ -25,7 +25,7 @@ then clone this repo and move into its directory.
 `node main.js`    
 
 ### Heroku Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/govindms777/BonkMeet)    
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bunnykek/BonkMeet)    
 Make sure to go to the deployed application's `Resources` tab and disable the `web` and enable the `worker`.     
     
 <img src="https://user-images.githubusercontent.com/67633271/159228071-af14ac62-b867-4271-83c8-1a075bf2bab7.png" width="1000">   
